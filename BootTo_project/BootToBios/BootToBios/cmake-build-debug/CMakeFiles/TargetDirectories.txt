@@ -1,0 +1,3 @@
+C:/Users/saysaa/Desktop/BootToBios/cmake-build-debug/CMakeFiles/BootToBios.dir
+C:/Users/saysaa/Desktop/BootToBios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saysaa/Desktop/BootToBios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
